@@ -24,3 +24,8 @@ target/
 *.log
 *.sql
 *.sqlite
+
+# Other
+########
+build
+.gradle
